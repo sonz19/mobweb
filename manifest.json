@@ -1,12 +1,6 @@
 {
   "name": "NasaPicsPick",
   "short_name": "NasapicPicks",
-  "theme_color": "#0e4c7d",
-  "background_color": "#b8c6d2",
-  "display": "standalone",
-  "orientation": "portrait-primary",
-  "Scope": "/",
-  "start_url": "/index.html",
   "icons": [
     {
       "src": "img/icon/icon-72x72.png",
@@ -49,5 +43,13 @@
       "type": "image/png"
     }
   ],
-  "splash_pages": null
+  "start_url": "/index.html",
+  "Scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#b8c6d2",
+  "theme_color": "#0e4c7d",
+  "dir": "ltr",
+  "lang": "en-US",
+  "splash_pages": null,
 }
