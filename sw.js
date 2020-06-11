@@ -12,6 +12,7 @@ self.addEventListener('install', function(event) {
       cache.addAll([
         '/',
         '/js/app.js',
+        '/js/fetch.js',
         '/css/style.css',
         '/css/bootstrap.min.css',
         '/css/font-awesome.min.css',
